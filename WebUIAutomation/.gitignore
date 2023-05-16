@@ -1,0 +1,14 @@
+﻿SolaireWebUIAutomation/.idea
+SolaireWebUIAutomation/.vs
+SolaireWebUIAutomation/PlanA.Web.Core/bin
+SolaireWebUIAutomation/PlanA.Web.Core/obj
+SolaireWebUIAutomation/SolaireWebUITests/bin
+SolaireWebUIAutomation/SolaireWebUIAutomation.sln.DotSettings.user
+SolaireWebUIAutomation/SolaireWebUITests/obj
+
+*.feature.cs
+SolaireWebUIAutomation/SolaireWebUITests/SpecFlow
+SolaireWebUIAutomation/PlanA.Web.Core/.DS_Store
+SolaireWebUIAutomation/.DS_Store
+.DS_Store
+.idea
