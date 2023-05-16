@@ -1,4 +1,4 @@
-# Player360 Automation Framework
+# Automation Framework
 
 The purpose of this Automation Framework it is to make process of testing more faster. And provide visible reporting for
 better understanding app quality.
@@ -14,7 +14,7 @@ better understanding app quality.
 
 2. **<ProjectName>WebUITests** - project contains all ata needed for test run.
 
-![SolaireWebTests.png](/Readme/WebTests.png)
+![WebTests.png](/Readme/WebTests.png)
 
 - _Features folder_ - contains all feature files (test cases) separated by app tabs.
 - _TestData folder_ - contains additional test data which can be used during test execution.
@@ -34,7 +34,7 @@ better understanding app quality.
    1.2. Install .net 6.0 on your PC
 
 2. Update you Chrome browser
-3. Clone repository from  [here](https://bitbucket.org/solaireresortcasino/solairewebuiautomation/src/master/)
+3. Clone repository from 
 
 ## Test Run:
 
